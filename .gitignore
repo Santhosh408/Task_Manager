@@ -1,0 +1,17 @@
+# Python
+*.pyc
+__pycache__/
+
+# Environment variables
+.env
+
+# Django stuff:
+*.log
+*.pot
+*.pyc
+__pycache__/
+local_settings.py
+*.rest
+
+# Database
+db.sqlite3
